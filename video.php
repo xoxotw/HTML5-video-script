@@ -13,12 +13,12 @@
              if ($scan[$i] != '.' && $scan[$i] != '..') {
              echo '
              
-						<div class="vidz"><h2 class="vH2">'.$scan[$i].'</h2>							
-							<video controls="controls" preload="metadata" height="300" width="400">
-									<source src="'.$dir . $scan[$i].'" type="video/webm" />
-									No HTML5 video support sorry !
-	 						</video>             
-             </div>';
+		<div class="vidz"><h2 class="vH2">'.$scan[$i].'</h2>							
+			<video controls="controls" preload="metadata" height="300" width="400">
+				<source src="'.$dir . $scan[$i].'" type="video/webm" />
+				No HTML5 video support sorry !
+	 		</video>             
+             	</div>';
          
              } 
             }
