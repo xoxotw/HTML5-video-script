@@ -1,0 +1,22 @@
+body{
+		background-color: #EE2697;
+}
+
+section{
+		display: flex;
+		flex-wrap: wrap; 
+		justify-content: center;
+}
+
+.vH2{
+		display: flex;
+		justify-content: center;
+}
+
+.vidz{
+		margin-bottom: 26px;
+}
+	
+h2{
+		font-size: 18px;	
+}
