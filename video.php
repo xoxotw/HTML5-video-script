@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>[ snowflake Widow ]</title>
+    <title>[ myVideos ]</title>
     <link href="styles.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
